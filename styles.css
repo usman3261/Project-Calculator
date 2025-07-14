@@ -31,3 +31,6 @@ button{
     height:50px;
     width: 55px;
 }
+#clear{
+    align-self:center;
+}
